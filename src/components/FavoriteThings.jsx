@@ -28,13 +28,13 @@ export default function FavoriteThings() {
   ];
 
   const allPhotos = [
-    { url: "./src/assets/1000000680.webp", caption: "Memory 1 ✨" },
-    { url: "./src/assets/received_541769165565519.jpeg", caption: "Good times ☕" },
-    { url: "./src/assets/Messenger_creation_BEC8A9A6-0BA1-4FAD-8DC4-CFEC0B0B3227.jpeg", caption: "Adventure 🌿" },
-    { url: "./src/assets/IMG_20260327_173120_1.jpg", caption: "Smile always 😊" },
-    { url: "./src/assets/Image_20260331_123423_780.jpeg", caption: "Chill days 🎧" },
-    { url: "./src/assets/FB_IMG_1785515996510.jpg", caption: "Favorites 📚" },
-    { url: "./src/assets/FB_IMG_1785511462327.jpg", caption: "Favorites 📚" }
+    { url: "./src/assets/images/m1000000680.webp", caption: "Memory 1 ✨" },
+    { url: "./src/assets/images/received_541769165565519.jpeg", caption: "Good times ☕" },
+    { url: "./src/assets/images/Messenger_creation_BEC8A9A6-0BA1-4FAD-8DC4-CFEC0B0B3227.jpeg", caption: "Adventure 🌿" },
+    { url: "./src/assets/images/IMG_20260327_173120_1.jpg", caption: "Smile always 😊" },
+    { url: "./src/assets/images/Image_20260331_123423_780.jpeg", caption: "Chill days 🎧" },
+    { url: "./src/assets/images/FB_IMG_1785515996510.jpg", caption: "Favorites 📚" },
+    { url: "./src/assets/images/FB_IMG_1785511462327.jpg", caption: "Favorites 📚" }
   ];
 
   const slotItems = [...allPhotos, ...allPhotos, ...allPhotos];

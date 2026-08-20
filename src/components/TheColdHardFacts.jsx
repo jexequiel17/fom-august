@@ -97,7 +97,7 @@ export default function TheColdHardFacts() {
             {/* Inner frame wrapper */}
             <div className="w-full h-full overflow-hidden rounded-xl border border-dashed border-[#3D1E6D]/30 relative bg-slate-50">
               <img 
-                src="./src/assets/FB_IMG_1785405230338.jpg" 
+                src="./src/assets/images/FB_IMG_1785405230338.jpg" 
                 alt="Maria Clarissa" 
                 className="w-full h-full object-cover absolute inset-0"
               />
