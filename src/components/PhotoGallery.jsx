@@ -6,23 +6,23 @@ import { RefreshCw } from 'lucide-react';
 const DEFAULT_PHOTOS = [
   {
     images: [
-      { url: "./src/assets/images/IMG-20231224-WA0000.jpg" },
-      { url: "./src/assets/images/IMG_20260726_160231.jpg"},
-      { url: "./src/assets/images/Image_20260308_213604_045.jpeg" }
+      { url: "/images/IMG-20231224-WA0000.jpg" },
+      { url: "/images/IMG_20260726_160231.jpg"},
+      { url: "/images/Image_20260308_213604_045.jpeg" }
     ]
   },
   {
     images: [
-      { url: "./src/assets/images/IMG-20240303-WA0004.jpg" },
-      { url: "./src/assets/images/FB_IMG_1785405256578.jpg" },
-      { url: "./src/assets/images/FB_IMG_1785516058980.jpg" }
+      { url: "/images/IMG-20240303-WA0004.jpg" },
+      { url: "/images/FB_IMG_1785405256578.jpg" },
+      { url: "/images/FB_IMG_1785516058980.jpg" }
     ]
   },
   {
     images: [
-      { url: "./src/assets/images/FB_IMG_1785515357143.jpg" },
-      { url: "./src/assets/images/Messenger_creation_C2A35D79-54F3-497B-A3B5-6DFDC5D5720B.jpeg" },
-      { url: "./src/assets/images/Messenger_creation_978571130354145.jpeg" }
+      { url: "/images/FB_IMG_1785515357143.jpg" },
+      { url: "/images/Messenger_creation_C2A35D79-54F3-497B-A3B5-6DFDC5D5720B.jpeg" },
+      { url: "/images/Messenger_creation_978571130354145.jpeg" }
     ]
   }
 ];

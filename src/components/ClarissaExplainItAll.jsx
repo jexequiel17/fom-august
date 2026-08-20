@@ -49,7 +49,7 @@ export default function ClarissaExplainItAll() {
     ></div>
 
     <img 
-      src="./src/assets/images/1785664921144.png" 
+      src="/images/1785664921144.png" 
       alt="Clarissa Portrait" 
       className="w-full h-full object-cover absolute inset-0"
     />

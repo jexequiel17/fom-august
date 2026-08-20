@@ -7,12 +7,12 @@ export default function BurnishBook() {
   const [selectedPhoto, setSelectedPhoto] = useState(null); // State for the photo modal viewer
 
   const slotItems = [
-    { id: 1, url: "./src/assets/images/IMG-458ddbc258ca7631f905f191ccd99e1e-V.jpg" },
-    { id: 2, url: "./src/assets/images/IMG-20250820-WA0001.jpg" },
-    { id: 3, url: "./src/assets/images/IMG_20241211_182234_694.webp" },
-    { id: 4, url: "./src/assets/images/Image_20260731_124320_016.webp" },
-    { id: 5, url: "./src/assets/images/1000016284.jpeg" },
-    { id: 6, url: "./src/assets/images/FB_IMG_1785511724637.jpg" },
+    { id: 1, url: "/images/IMG-458ddbc258ca7631f905f191ccd99e1e-V.jpg" },
+    { id: 2, url: "/images/IMG-20250820-WA0001.jpg" },
+    { id: 3, url: "/images/IMG_20241211_182234_694.webp" },
+    { id: 4, url: "/images/Image_20260731_124320_016.webp" },
+    { id: 5, url: "/images/1000016284.jpeg" },
+    { id: 6, url: "/images/FB_IMG_1785511724637.jpg" },
   ];
 
   return (
