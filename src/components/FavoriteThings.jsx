@@ -28,7 +28,7 @@ export default function FavoriteThings() {
   ];
 
   const allPhotos = [
-    { url: "/images/m1000000680.webp", caption: "Memory 1 ✨" },
+    { url: "/images/1000000680.webp", caption: "Memory 1 ✨" },
     { url: "/images/received_541769165565519.jpeg", caption: "Good times ☕" },
     { url: "/images/Messenger_creation_BEC8A9A6-0BA1-4FAD-8DC4-CFEC0B0B3227.jpeg", caption: "Adventure 🌿" },
     { url: "/images/IMG_20260327_173120_1.jpg", caption: "Smile always 😊" },

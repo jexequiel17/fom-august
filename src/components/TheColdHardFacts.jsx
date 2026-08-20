@@ -97,7 +97,7 @@ export default function TheColdHardFacts() {
             {/* Inner frame wrapper */}
             <div className="w-full h-full overflow-hidden rounded-xl border border-dashed border-[#3D1E6D]/30 relative bg-slate-50">
               <img 
-                src="./src/assets/images/FB_IMG_1785405230338.jpg" 
+                src="/images/FB_IMG_1785405230338.jpg" 
                 alt="Maria Clarissa" 
                 className="w-full h-full object-cover absolute inset-0"
               />
@@ -133,7 +133,7 @@ export default function TheColdHardFacts() {
           </div>
 
           <img 
-            src="./src/assets/FB_IMG_1785405230338.jpg" 
+            src="/images/FB_IMG_1785405230338.jpg" 
             alt="Maria Clarissa" 
             className="w-full h-full object-cover"
           />
@@ -208,7 +208,7 @@ export default function TheColdHardFacts() {
             {/* Image Container */}
             <div className="w-full h-[70vh] overflow-hidden rounded-2xl border-2 border-dashed border-[#3D1E6D]/30 bg-slate-50 relative flex items-center justify-center">
               <img 
-                src="./src/assets/FB_IMG_1785405230338.jpg" 
+                src="/images/FB_IMG_1785405230338.jpg" 
                 alt="Maria Clarissa Full View" 
                 className="w-full h-full object-contain p-2"
               />
